@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-11T19:40:27 IST" name="Suite" finished-at="2024-05-11T19:40:31 IST" duration-ms="3812">
+    <groups>
+    </groups>
+    <test started-at="2024-05-11T19:40:27 IST" name="Test" finished-at="2024-05-11T19:40:31 IST" duration-ms="3812">
+      <class name="apiChaining.CreateUser">
+        <test-method signature="test_createUser(org.testng.ITestContext)[pri:0, instance:apiChaining.CreateUser@3c73951]" started-at="2024-05-11T19:40:28 IST" name="test_createUser" finished-at="2024-05-11T19:40:31 IST" duration-ms="3281" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6fa51cd4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_createUser -->
+      </class> <!-- apiChaining.CreateUser -->
+      <class name="apiChaining.GetUser">
+        <test-method signature="test_GetUser(org.testng.ITestContext)[pri:0, instance:apiChaining.GetUser@383bfa16]" started-at="2024-05-11T19:40:31 IST" name="test_GetUser" finished-at="2024-05-11T19:40:31 IST" duration-ms="466" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6fa51cd4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_GetUser -->
+      </class> <!-- apiChaining.GetUser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
